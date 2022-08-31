@@ -1,2 +1,2 @@
 # fastwordquery-2
-A fork of Fast Word Query with support for DWDS and BAmooz dictionaries
+A fork of [Fast Word Query](https://github.com/sth2018/FastWordQuery) with support for [DWDS](https://www.dwds.de) and [BAmooz](https://dic.b-amooz.com) dictionaries. DWDS is used to fetch the pronounciation and the definion of German words in German and BAmooz is used for Persian translation of german words. This addon helps creating Anki cards by automatically querying data from the dictionieris. 
